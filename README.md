@@ -25,5 +25,5 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/yomnasaber"><img src="assets/linkedin.svg" alt="LinkedIn" height="46"/></a>
   &nbsp;&nbsp;
-  <a href="mailto:yomnasaber88@gmail.com"><img src="assets/email.svg" alt="Email" height="46"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yomnasaber88@gmail.com"><img src="assets/email.svg" alt="Email" height="46"/></a>
 </div>
