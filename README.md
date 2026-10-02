@@ -2,43 +2,28 @@
 
 <img src="assets/header.svg" alt="Yomna Saber — AI Engineer" width="100%"/>
 
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/yumnasaber">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=84C5D1&center=true&vCenter=true&width=620&lines=Building+machine+learning+pipelines;Turning+data+into+predictive+systems;Designing+models+that+ship+to+production" alt="Typing animation" />
 </a>
 
 </div>
 
-<br/>
+<p><img src="assets/about.svg" alt="About" width="100%"/></p>
 
-## About
+<p><img src="assets/focus.svg" alt="Focus Areas" width="100%"/></p>
 
-I'm an AI engineer focused on building machine learning systems end to end: data preparation, feature engineering, model training and evaluation, and turning results into tools people can use.
-
-## Focus Areas
-
-| Area | What I work on |
-| --- | --- |
-| **Machine Learning** | Classification, ensemble methods, model evaluation and tuning |
-| **Data Engineering for ML** | Cleaning, preprocessing, feature pipelines |
-| **Applied AI** | Predictive systems for real business problems |
-| **Software Foundations** | Algorithms, data structures, clean and maintainable code |
-
-## Tech Stack
+<p><img src="assets/stack.svg" alt="Tech Stack: Python, scikit-learn, Pandas, NumPy, Jupyter, Git, GitHub, VS Code" width="100%"/></p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,jupyter,git,github,vscode&theme=dark" alt="Tech stack" />
+  <a href="https://github.com/yumnasaber/smart-recruitment-assistant">
+    <img src="assets/project.svg" alt="Featured project: smart-recruitment-assistant" width="100%"/>
+  </a>
 </p>
 
-## Featured Project
+<p><img src="assets/contact.svg" alt="Contact" width="100%"/></p>
 
-### [smart-recruitment-assistant](https://github.com/yumnasaber/smart-recruitment-assistant)
-ML-powered recruitment assistant that predicts candidate job-change likelihood.
-
-- **Models:** Random Forest, Logistic Regression
-- **Stack:** Python, Jupyter, scikit-learn
-- **Goal:** help recruiters prioritize candidates more effectively
-
-## Contact
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-30363d?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/yomnasaber"><img src="assets/linkedin.svg" alt="LinkedIn" height="46"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:yomnasaber88@gmail.com"><img src="assets/email.svg" alt="Email" height="46"/></a>
+</div>
